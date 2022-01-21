@@ -1,0 +1,12 @@
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\bin\Debug\Dyslexia Support App.exe.config
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\bin\Debug\Dyslexia Support App.exe
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\bin\Debug\Dyslexia Support App.pdb
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia Support App.csproj.AssemblyReference.cache
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia Support App.csproj.SuggestedBindingRedirects.cache
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia_Support_App.Form1.resources
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia_Support_App.Properties.Resources.resources
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia Support App.csproj.GenerateResource.cache
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia Support App.csproj.CoreCompileInputs.cache
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia Support App.exe
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia Support App.pdb
+C:\Users\mouad\OneDrive\Bureau\Dyslexia Support App\Dyslexia Support App\obj\Debug\Dyslexia_Support_App.AccessPage.resources
